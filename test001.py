@@ -5,4 +5,4 @@ import sys
 if (__name__ == '__main__'):
     sys.stdout.write('testing git branch\n')
     sys.stdout.write('  argc = %d\n' % len(sys.argv))
-    sys.stdout.write('modify from another cloned directory...\n')
+    sys.stdout.write('modify from original cloned directory...\n')
